@@ -8,5 +8,3 @@ answer = array.map{  |word|
     puts x}
 
 end
-
-reverse_each_word("Hello")
