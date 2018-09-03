@@ -4,6 +4,6 @@ array = string.split(" ")
 answer = array.map{  |word|
   word.reverse
 }
-answer.join
+answer.join(" ")
 
 end
